@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+expenses.db
+.env
+.streamlit/secrets.toml
+app - Copy.py
